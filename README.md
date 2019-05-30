@@ -1,4 +1,4 @@
-# EPL-Prediction
+# EPL Prediction
 ## The reason why I'm doing this analysis
 1. A huge soccer and Chelsea FC fan 
 2. Watch soccer every week
