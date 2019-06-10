@@ -8,12 +8,12 @@ class EPLSpider(scrapy.Spider):
     name = "Clubstats"
     allowed_domains = ["premierleague.com"]
     start_urls = [
-        "https://www.premierleague.com/clubs"
+        "https://www.premierleague.com/clubs?se=79"
     ]
     
     def __init__(self):
         scrapy.Spider.__init__(self)
-        self.browser = webdriver.Chrome("C:\sta\chromedriver.exe")
+        self.browser = webdriver.Chrome("/Users/hyunilyoo/Documents/analytics/nlp_summarization/webdriver/chromedriver")
     
     def parse(self, response):
         self.browser.get(response.url)
@@ -34,7 +34,16 @@ class EPLSpider(scrapy.Spider):
             
     def parse_page_stats_contents(self, response):
         self.browser.get(response.url)
-        time.sleep(5)
+        time.sleep(3)
+        html = self.browser.find_element_by_xpath('//*').get_attribute('outerHTML')
+
+        self.browser.find_element_by_xpath('//*[@id="mainContent"]/div[3]/div/div/section/div[1]/div[2]').click()
+        html = self.browser.find_element_by_xpath('//*').get_attribute('outerHTML')
+        
+        time.sleep(3)
+        self.browser.find_element_by_xpath('//*[@id="mainContent"]/div[3]/div/div/section/div[1]/ul/li[4]').click()
+
+        time.sleep(3)
         html = self.browser.find_element_by_xpath('//*').get_attribute('outerHTML')
         selector = Selector(text=html)
         
