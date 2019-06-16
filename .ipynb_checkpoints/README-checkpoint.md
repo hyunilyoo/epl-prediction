@@ -1,29 +1,33 @@
-# EPL-Prediction
-## The reason why I'm doing this analysis
-1. A huge soccer and Chelsea FC fan 
-2. Watch soccer every week
-3. Curiosity
-    - What are the most important factors to win a match?
-    - Can I predict top4 on this year's table.
+### English Premier League Top 4 Prediction - ML Classification
 
+Date: 04/16/2019
+Name: Hyunil Yoo
 
-## How I’m going to approach this topic?
+### Backgroud
+The reason why I'm doing this analysis:
+I’m a huge soccer and Chelsea FC fan, and I was wondering about what are the crucial factors that teams must have to win the league. Is it number passes, pass accuracy, shot on target, and so on. What factors should a team to focus on? It will be interesting to know what factors are actually affecting matches and use that insight to improve team’s performances.
+
+### Problem Statement
+There just too many things to focus to train teams. 
+
+### Objective
+Find the features that help team's performance to win the league if there is one.
+
+### Proposal
+How I’m going to approach this topic?
 
 1. Getting data from the official EPL website     
     a. Web scraping  
 2. Exploring data  
-    a. Data Cleaning  
-    b. Visualizing data  
-    c. Correlation among features  
-3. Make statistical models  
-    a. Multinomial Logistic Regression  
-    b. Support Vector Machine  
-    c. XG Boost  
-    d. Knn
-4. Choose the best model to predict the final table  
+    a. Data Wrangling
+    b. EDA
+    c. Normalization 
+3. Test ML models  
+
+4. Choose the best model to predict the top 4
 
 
-## Soccer Jargons  
+### Soccer Jargons  
 
 Aerial Battle: The number of winning the balls that were in the air.  
 Big Chance Created: The number of chances that are directly related to score.  
