@@ -8,7 +8,7 @@ The reason why I'm doing this analysis:
 I’m a huge soccer and Chelsea FC fan, and I was wondering about what are the crucial factors that teams must have to win the league. Is it number passes, pass accuracy, shot on target, and so on. What factors should a team to focus on? It will be interesting to know what factors are actually affecting matches and use that insight to improve team’s performances.
 
 ### Problem Statement
-There just too many things to focus to train teams; therefore, it can cause 
+There just too many things to focus to train teams. What if there are more important trainings than others? Therefore, focusing on important trainings can lead much better performance throughout a season.
 
 ### Objective
 Find the features that help team's performance to win the league if there is one.
