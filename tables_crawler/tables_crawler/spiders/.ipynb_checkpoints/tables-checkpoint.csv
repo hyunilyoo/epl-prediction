@@ -1,0 +1,567 @@
+club_name,drawn,goal,goal_against,lost,points,position,won
+Liverpool,1,66,21,1,82,1,27
+Manchester City,3,68,31,7,57,2,18
+Leicester City,5,58,28,8,53,3,16
+Chelsea,6,51,39,9,48,4,14
+Manchester United,9,44,30,8,45,5,12
+Wolverhampton Wanderers,13,41,34,6,43,6,10
+Sheffield United,10,30,25,7,43,7,11
+Tottenham Hotspur,8,47,40,10,41,8,11
+Arsenal,13,40,36,6,40,9,9
+Burnley,6,34,40,12,39,10,11
+Crystal Palace,9,26,32,10,39,11,10
+Everton,7,37,46,12,37,12,10
+Newcastle United,8,25,41,12,35,13,9
+Southampton,4,35,52,15,34,14,10
+Brighton and Hove Albion,11,32,40,12,29,15,6
+West Ham United,6,35,50,16,27,16,7
+Watford,9,27,44,14,27,17,6
+Bournemouth,6,29,47,16,27,18,7
+Aston Villa,4,34,56,17,25,19,7
+Norwich City,6,25,52,18,21,20,5
+Manchester City,2,95,23,4,98,1,32
+Liverpool,7,89,22,1,97,2,30
+Chelsea,9,63,39,8,72,3,21
+Tottenham Hotspur,2,67,39,13,71,4,23
+Arsenal,7,73,51,10,70,5,21
+Manchester United,9,65,54,10,66,6,19
+Wolverhampton Wanderers,9,47,46,13,57,7,16
+Everton,9,54,46,14,54,8,15
+Leicester City,7,51,48,16,52,9,15
+West Ham United,7,52,55,16,52,10,15
+Watford,8,52,59,16,50,11,14
+Crystal Palace,7,51,53,17,49,12,14
+Newcastle United,9,42,48,17,45,13,12
+Bournemouth,6,56,70,19,45,14,13
+Burnley,7,45,68,20,40,15,11
+Southampton,12,45,65,17,39,16,9
+Brighton and Hove Albion,9,35,60,20,36,17,9
+Cardiff City,4,34,69,24,34,18,10
+Fulham,5,34,81,26,26,19,7
+Huddersfield Town,7,22,76,28,16,20,3
+Manchester City,4,106,27,2,100,1,32
+Manchester United,6,68,28,7,81,2,25
+Tottenham Hotspur,8,74,36,7,77,3,23
+Liverpool,12,84,38,5,75,4,21
+Chelsea,7,62,38,10,70,5,21
+Arsenal,6,74,51,13,63,6,19
+Burnley,12,36,39,12,54,7,14
+Everton,10,44,58,15,49,8,13
+Leicester City,11,56,60,15,47,9,12
+Newcastle United,8,39,47,18,44,10,12
+Crystal Palace,11,45,55,16,44,11,11
+Bournemouth,11,45,61,16,44,12,11
+West Ham United,12,48,68,16,42,13,10
+Watford,8,44,64,19,41,14,11
+Brighton and Hove Albion,13,34,54,16,40,15,9
+Huddersfield Town,10,28,58,19,37,16,9
+Southampton,15,37,56,16,36,17,7
+Swansea City,9,28,56,21,33,18,8
+Stoke City,12,35,68,19,33,19,7
+West Bromwich Albion,13,31,56,19,31,20,6
+Chelsea,3,85,33,5,93,1,30
+Tottenham Hotspur,8,86,26,4,86,2,26
+Manchester City,9,80,39,6,78,3,23
+Liverpool,10,78,42,6,76,4,22
+Arsenal,6,77,44,9,75,5,23
+Manchester United,15,54,29,5,69,6,18
+Everton,10,62,44,11,61,7,17
+Southampton,10,41,48,16,46,8,12
+Bournemouth,10,55,67,16,46,9,12
+West Bromwich Albion,9,43,51,17,45,10,12
+West Ham United,9,47,64,17,45,11,12
+Leicester City,8,48,63,18,44,12,12
+Stoke City,11,41,56,16,44,13,11
+Crystal Palace,5,50,63,21,41,14,12
+Swansea City,5,45,70,21,41,15,12
+Burnley,7,39,55,20,40,16,11
+Watford,7,40,68,20,40,17,11
+Hull City,7,37,80,22,34,18,9
+Middlesbrough,13,27,53,20,28,19,5
+Sunderland,6,29,69,26,24,20,6
+Leicester City,12,68,36,3,81,1,23
+Arsenal,11,65,36,7,71,2,20
+Tottenham Hotspur,13,69,35,6,70,3,19
+Manchester City,9,71,41,10,66,4,19
+Manchester United,9,49,35,10,66,5,19
+Southampton,9,59,41,11,63,6,18
+West Ham United,14,65,51,8,62,7,16
+Liverpool,12,63,50,10,60,8,16
+Stoke City,9,41,55,15,51,9,14
+Chelsea,14,59,53,12,50,10,12
+Everton,14,59,55,13,47,11,11
+Swansea City,11,42,52,15,47,12,12
+Watford,9,40,50,17,45,13,12
+West Bromwich Albion,13,34,48,15,43,14,10
+Crystal Palace,9,39,51,18,42,15,11
+Bournemouth,9,45,67,18,42,16,11
+Sunderland,12,48,62,17,39,17,9
+Newcastle United,10,44,65,19,37,18,9
+Norwich City,7,39,67,22,34,19,9
+Aston Villa,8,27,76,27,17,20,3
+Chelsea,9,73,32,3,87,1,26
+Manchester City,7,83,38,7,79,2,24
+Arsenal,9,71,36,7,75,3,22
+Manchester United,10,62,37,8,70,4,20
+Tottenham Hotspur,7,58,53,12,64,5,19
+Liverpool,8,52,48,12,62,6,18
+Southampton,6,54,33,14,60,7,18
+Swansea City,8,46,49,14,56,8,16
+Stoke City,9,48,45,14,54,9,15
+Crystal Palace,9,47,51,16,48,10,13
+Everton,11,48,50,15,47,11,12
+West Ham United,11,44,47,15,47,12,12
+West Bromwich Albion,11,38,51,16,44,13,11
+Leicester City,8,46,55,19,41,14,11
+Newcastle United,9,40,63,19,39,15,10
+Sunderland,17,31,53,14,38,16,7
+Aston Villa,8,31,57,20,38,17,10
+Hull City,11,33,51,19,35,18,8
+Burnley,12,28,53,19,33,19,7
+Queens Park Rangers,6,42,73,24,30,20,8
+Manchester City,5,102,37,6,86,1,27
+Liverpool,6,101,50,6,84,2,26
+Chelsea,7,71,27,6,82,3,25
+Arsenal,7,68,41,7,79,4,24
+Everton,9,61,39,8,72,5,21
+Tottenham Hotspur,6,55,51,11,69,6,21
+Manchester United,7,64,43,12,64,7,19
+Southampton,11,54,46,12,56,8,15
+Stoke City,11,45,52,14,50,9,13
+Newcastle United,4,43,59,19,49,10,15
+Crystal Palace,6,33,48,19,45,11,13
+Swansea City,9,54,54,18,42,12,11
+West Ham United,7,40,51,20,40,13,11
+Sunderland,8,41,60,20,38,14,10
+Aston Villa,8,39,61,20,38,15,10
+Hull City,7,38,53,21,37,16,10
+West Bromwich Albion,15,43,59,16,36,17,7
+Norwich City,9,28,62,21,33,18,8
+Fulham,5,40,85,24,32,19,9
+Cardiff City,9,32,74,22,30,20,7
+Manchester United,5,86,43,5,89,1,28
+Manchester City,9,66,34,6,78,2,23
+Chelsea,9,75,39,7,75,3,22
+Arsenal,10,72,37,7,73,4,21
+Tottenham Hotspur,9,66,46,8,72,5,21
+Everton,15,55,40,7,63,6,16
+Liverpool,13,71,43,9,61,7,16
+West Bromwich Albion,7,53,57,17,49,8,14
+Swansea City,13,47,51,14,46,9,11
+West Ham United,10,45,53,16,46,10,12
+Norwich City,14,41,58,14,44,11,10
+Fulham,10,50,60,17,43,12,11
+Stoke City,15,34,45,14,42,13,9
+Southampton,14,49,60,15,41,14,9
+Aston Villa,11,47,69,17,41,15,10
+Newcastle United,8,45,68,19,41,16,11
+Sunderland,12,41,54,17,39,17,9
+Wigan Athletic,9,47,73,20,36,18,9
+Reading,10,43,73,22,28,19,6
+Queens Park Rangers,13,30,60,21,25,20,4
+Manchester City,5,93,29,5,89,1,28
+Manchester United,5,89,33,5,89,2,28
+Arsenal,7,74,49,10,70,3,21
+Tottenham Hotspur,9,66,41,9,69,4,20
+Newcastle United,8,56,51,11,65,5,19
+Chelsea,10,65,46,10,64,6,18
+Everton,11,50,40,12,56,7,15
+Liverpool,10,47,40,14,52,8,14
+Fulham,10,48,51,14,52,9,14
+West Bromwich Albion,8,45,52,17,47,10,13
+Swansea City,11,44,51,15,47,11,12
+Norwich City,11,52,66,15,47,12,12
+Sunderland,12,45,46,15,45,13,11
+Stoke City,12,36,53,15,45,14,11
+Wigan Athletic,10,42,62,17,43,15,11
+Aston Villa,17,37,53,14,38,16,7
+Queens Park Rangers,7,43,66,21,37,17,10
+Bolton Wanderers,6,46,77,22,36,18,10
+Blackburn Rovers,7,48,78,23,31,19,8
+Wolverhampton Wanderers,10,40,82,23,25,20,5
+Manchester United,11,78,37,4,80,1,23
+Chelsea,8,69,33,9,71,2,21
+Manchester City,8,60,33,9,71,3,21
+Arsenal,11,72,43,8,68,4,19
+Tottenham Hotspur,14,55,46,8,62,5,16
+Liverpool,7,59,44,14,58,6,17
+Everton,15,51,45,10,54,7,13
+Fulham,16,49,43,11,49,8,11
+Aston Villa,12,48,59,14,48,9,12
+Sunderland,11,45,56,15,47,10,12
+West Bromwich Albion,11,56,71,15,47,11,12
+Newcastle United,13,56,57,14,46,12,11
+Stoke City,7,46,48,18,46,13,13
+Bolton Wanderers,10,52,56,16,46,14,12
+Blackburn Rovers,10,46,59,17,43,15,11
+Wigan Athletic,15,40,61,14,42,16,9
+Wolverhampton Wanderers,7,46,66,20,40,17,11
+Birmingham City,15,37,58,15,39,18,8
+Blackpool,9,55,78,19,39,19,10
+West Ham United,12,43,70,19,33,20,7
+Chelsea,5,103,32,6,86,1,27
+Manchester United,4,86,28,7,85,2,27
+Arsenal,6,83,41,9,75,3,23
+Tottenham Hotspur,7,67,41,10,70,4,21
+Manchester City,13,73,45,7,67,5,18
+Aston Villa,13,52,39,8,64,6,17
+Liverpool,9,61,35,11,63,7,18
+Everton,13,60,49,9,61,8,16
+Birmingham City,11,38,47,14,50,9,13
+Blackburn Rovers,11,41,55,14,50,10,13
+Stoke City,14,34,48,13,47,11,11
+Fulham,10,39,46,16,46,12,12
+Sunderland,11,48,56,16,44,13,11
+Bolton Wanderers,9,42,67,19,39,14,10
+Wolverhampton Wanderers,11,32,56,18,38,15,9
+Wigan Athletic,9,37,79,20,36,16,9
+West Ham United,11,47,66,19,35,17,8
+Burnley,6,42,82,24,30,18,8
+Hull City,12,34,75,20,30,19,6
+Portsmouth,7,34,66,24,19,20,7
+Manchester United,6,68,24,4,90,1,28
+Liverpool,11,77,27,2,86,2,25
+Chelsea,8,68,24,5,83,3,25
+Arsenal,12,68,37,6,72,4,20
+Everton,12,55,37,9,63,5,17
+Aston Villa,11,54,48,10,62,6,17
+Fulham,11,39,34,13,53,7,14
+Tottenham Hotspur,9,45,45,15,51,8,14
+West Ham United,9,42,45,15,51,9,14
+Manchester City,5,58,50,18,50,10,15
+Wigan Athletic,9,34,45,17,45,11,12
+Stoke City,9,38,55,17,45,12,12
+Bolton Wanderers,8,41,53,19,41,13,11
+Portsmouth,11,38,57,17,41,14,10
+Blackburn Rovers,11,40,60,17,41,15,10
+Sunderland,9,34,54,20,36,16,9
+Hull City,11,39,64,19,35,17,8
+Newcastle United,13,40,59,18,34,18,7
+Middlesbrough,11,28,57,20,32,19,7
+West Bromwich Albion,8,36,67,22,32,20,8
+Manchester United,6,80,22,5,87,1,27
+Chelsea,10,65,26,3,85,2,25
+Arsenal,11,74,31,3,83,3,24
+Liverpool,13,67,28,4,76,4,21
+Everton,8,55,33,11,65,5,19
+Aston Villa,12,71,51,10,60,6,16
+Blackburn Rovers,13,50,48,10,58,7,15
+Portsmouth,9,48,40,13,57,8,16
+Manchester City,10,45,53,13,55,9,15
+West Ham United,10,42,50,15,49,10,13
+Tottenham Hotspur,13,66,61,14,46,11,11
+Newcastle United,10,45,65,17,43,12,11
+Middlesbrough,12,43,53,16,42,13,10
+Wigan Athletic,10,34,51,18,40,14,10
+Sunderland,6,36,59,21,39,15,11
+Bolton Wanderers,10,36,54,19,37,16,9
+Fulham,12,38,60,18,36,17,8
+Reading,6,41,66,22,36,18,10
+Birmingham City,11,46,62,19,35,19,8
+Derby County,8,20,89,29,11,20,1
+Manchester United,5,83,27,5,89,1,28
+Chelsea,11,64,24,3,83,2,24
+Liverpool,8,57,27,10,68,3,20
+Arsenal,11,63,35,8,68,4,19
+Tottenham Hotspur,9,57,54,12,60,5,17
+Everton,13,52,36,10,58,6,15
+Bolton Wanderers,8,47,52,14,56,7,16
+Reading,7,52,47,15,55,8,16
+Portsmouth,12,45,42,12,54,9,14
+Blackburn Rovers,7,52,54,16,52,10,15
+Aston Villa,17,43,41,10,50,11,11
+Middlesbrough,10,44,49,16,46,12,12
+Newcastle United,10,38,47,17,43,13,11
+Manchester City,9,29,44,18,42,14,11
+West Ham United,5,35,59,21,41,15,12
+Fulham,15,38,60,15,39,16,8
+Wigan Athletic,8,37,59,20,38,17,10
+Sheffield United,8,32,55,20,38,18,10
+Charlton Athletic,10,34,60,20,34,19,8
+Watford,13,29,59,20,28,20,5
+Chelsea,4,72,22,5,91,1,29
+Manchester United,8,72,34,5,83,2,25
+Liverpool,7,57,25,6,82,3,25
+Arsenal,7,68,31,11,67,4,20
+Tottenham Hotspur,11,53,38,9,65,5,18
+Blackburn Rovers,6,51,42,13,63,6,19
+Newcastle United,7,47,42,14,58,7,17
+Bolton Wanderers,11,49,41,12,56,8,15
+West Ham United,7,52,55,15,55,9,16
+Wigan Athletic,6,45,52,17,51,10,15
+Everton,8,34,49,16,50,11,14
+Fulham,6,48,58,18,48,12,14
+Charlton Athletic,8,41,55,17,47,13,13
+Middlesbrough,9,48,58,17,45,14,12
+Manchester City,4,43,48,21,43,15,13
+Aston Villa,12,42,55,16,42,16,10
+Portsmouth,8,37,62,20,38,17,10
+Birmingham City,10,28,50,20,34,18,8
+West Bromwich Albion,9,31,58,22,30,19,7
+Sunderland,6,26,69,29,15,20,3
+Chelsea,8,72,15,1,95,1,29
+Arsenal,8,87,36,5,83,2,25
+Manchester United,11,58,26,5,77,3,22
+Everton,7,45,46,13,61,4,18
+Liverpool,7,52,41,14,58,5,17
+Bolton Wanderers,10,49,44,12,58,6,16
+Middlesbrough,13,53,46,11,55,7,14
+Manchester City,13,47,39,12,52,8,13
+Tottenham Hotspur,10,47,41,14,52,9,14
+Aston Villa,11,45,52,15,47,10,12
+Charlton Athletic,10,42,58,16,46,11,12
+Birmingham City,12,40,46,15,45,12,11
+Fulham,8,52,60,18,44,13,12
+Newcastle United,14,47,57,14,44,14,10
+Blackburn Rovers,15,32,43,14,42,15,9
+Portsmouth,9,43,59,19,39,16,10
+West Bromwich Albion,16,36,61,16,34,17,6
+Crystal Palace,12,41,62,19,33,18,7
+Norwich City,12,42,77,19,33,19,7
+Southampton,14,45,66,18,32,20,6
+Arsenal,12,73,26,0,90,1,26
+Chelsea,7,67,30,7,79,2,24
+Manchester United,6,64,35,9,75,3,23
+Liverpool,12,55,37,10,60,4,16
+Newcastle United,17,52,40,8,56,5,13
+Aston Villa,11,48,44,12,56,6,15
+Charlton Athletic,11,51,51,13,53,7,14
+Bolton Wanderers,11,48,56,13,53,8,14
+Fulham,10,52,46,14,52,9,14
+Birmingham City,14,43,48,12,50,10,12
+Middlesbrough,9,44,52,16,48,11,13
+Southampton,11,44,45,15,47,12,12
+Portsmouth,9,47,54,17,45,13,12
+Tottenham Hotspur,6,47,57,19,45,14,13
+Blackburn Rovers,8,51,59,18,44,15,12
+Manchester City,14,55,54,15,41,16,9
+Everton,12,45,57,17,39,17,9
+Leicester City,15,48,65,17,33,18,6
+Leeds United,9,40,79,21,33,19,8
+Wolverhampton Wanderers,12,38,77,19,33,20,7
+Manchester United,8,74,34,5,83,1,25
+Arsenal,9,85,42,6,78,2,23
+Newcastle United,6,63,48,11,69,3,21
+Chelsea,10,68,38,9,67,4,19
+Liverpool,10,61,41,10,64,5,18
+Blackburn Rovers,12,52,43,10,60,6,16
+Everton,8,48,49,13,59,7,17
+Southampton,13,43,46,12,52,8,13
+Manchester City,6,47,54,17,51,9,15
+Tottenham Hotspur,8,51,62,16,50,10,14
+Middlesbrough,10,48,44,15,49,11,13
+Charlton Athletic,7,45,56,17,49,12,14
+Birmingham City,9,41,49,16,48,13,13
+Fulham,9,41,50,16,48,14,13
+Leeds United,5,58,57,19,47,15,14
+Aston Villa,9,42,47,17,45,16,12
+Bolton Wanderers,14,41,51,14,44,17,10
+West Ham United,12,42,59,16,42,18,10
+West Bromwich Albion,8,29,65,24,26,19,6
+Sunderland,7,21,65,27,19,20,4
+Arsenal,9,79,36,3,87,1,26
+Liverpool,8,67,30,6,80,2,24
+Manchester United,5,87,45,9,77,3,24
+Newcastle United,8,74,52,9,71,4,21
+Leeds United,12,53,37,8,66,5,18
+Chelsea,13,66,38,8,64,6,17
+West Ham United,8,48,57,15,53,7,15
+Aston Villa,14,46,47,12,50,8,12
+Tottenham Hotspur,8,49,53,16,50,9,14
+Blackburn Rovers,10,55,51,16,46,10,12
+Southampton,9,46,54,17,45,11,12
+Middlesbrough,9,35,47,17,45,12,12
+Fulham,14,36,44,14,44,13,10
+Charlton Athletic,14,38,49,14,44,14,10
+Everton,10,45,57,17,43,15,11
+Bolton Wanderers,13,44,62,16,40,16,9
+Sunderland,10,29,51,18,40,17,10
+Ipswich Town,9,41,64,20,36,18,9
+Derby County,6,33,63,24,30,19,8
+Leicester City,13,30,64,20,28,20,5
+Manchester United,8,79,31,6,80,1,24
+Arsenal,10,63,38,8,70,2,20
+Liverpool,9,71,39,9,69,3,20
+Leeds United,8,64,43,10,68,4,20
+Ipswich Town,6,57,42,12,66,5,20
+Chelsea,10,68,45,11,61,6,17
+Sunderland,12,46,41,11,57,7,15
+Aston Villa,15,46,43,10,54,8,13
+Charlton Athletic,10,50,57,14,52,9,14
+Southampton,10,40,48,14,52,10,14
+Newcastle United,9,44,50,15,51,11,14
+Tottenham Hotspur,10,47,54,15,49,12,13
+Leicester City,6,39,51,18,48,13,14
+Middlesbrough,15,44,44,14,42,14,9
+West Ham United,12,45,50,16,42,15,10
+Everton,9,45,59,18,42,16,11
+Derby County,12,37,59,16,42,17,10
+Manchester City,10,41,65,20,34,18,8
+Coventry City,10,36,63,20,34,19,8
+Bradford City,11,30,70,22,26,20,5
+Manchester United,7,97,45,3,91,1,28
+Arsenal,7,73,43,9,73,2,22
+Leeds United,6,58,43,11,69,3,21
+Liverpool,10,51,30,9,67,4,19
+Chelsea,11,53,34,9,65,5,18
+Aston Villa,13,46,35,10,58,6,15
+Sunderland,10,57,56,12,58,7,16
+Leicester City,7,55,55,15,55,8,16
+West Ham United,10,52,53,13,55,9,15
+Tottenham Hotspur,8,57,49,15,53,10,15
+Newcastle United,10,63,54,14,52,11,14
+Middlesbrough,10,46,52,14,52,12,14
+Everton,14,59,49,12,50,13,12
+Coventry City,8,47,54,18,44,14,12
+Southampton,8,45,62,18,44,15,12
+Derby County,11,44,57,18,38,16,9
+Bradford City,9,38,68,20,36,17,9
+Wimbledon,12,46,74,19,33,18,7
+Sheffield Wednesday,7,38,70,23,31,19,8
+Watford,6,35,77,26,24,20,6
+Manchester United,13,80,37,3,79,1,22
+Arsenal,12,59,17,4,78,2,22
+Chelsea,15,57,30,3,75,3,20
+Leeds United,13,62,34,7,67,4,18
+West Ham United,9,46,53,13,57,5,16
+Aston Villa,10,51,46,13,55,6,15
+Liverpool,9,68,49,14,54,7,15
+Derby County,13,40,45,12,52,8,13
+Middlesbrough,15,48,54,11,51,9,12
+Leicester City,13,40,46,13,49,10,12
+Tottenham Hotspur,14,47,50,13,47,11,11
+Sheffield Wednesday,7,41,42,18,46,12,13
+Newcastle United,13,48,54,14,46,13,11
+Everton,10,42,47,17,43,14,11
+Coventry City,9,39,51,18,42,15,11
+Wimbledon,12,40,63,16,42,16,10
+Southampton,8,37,64,19,41,17,11
+Charlton Athletic,12,41,56,18,36,18,8
+Blackburn Rovers,14,38,52,17,35,19,7
+Nottingham Forest,9,35,69,22,30,20,7
+Arsenal,9,68,33,6,78,1,23
+Manchester United,8,73,26,7,77,2,23
+Liverpool,11,68,42,9,65,3,18
+Chelsea,3,71,43,15,63,4,20
+Leeds United,8,57,46,13,59,5,17
+Blackburn Rovers,10,57,52,12,58,6,16
+Aston Villa,6,49,48,15,57,7,17
+West Ham United,8,56,57,14,56,8,16
+Derby County,7,52,49,15,55,9,16
+Leicester City,14,51,41,11,53,10,13
+Coventry City,16,46,44,10,52,11,12
+Southampton,6,50,55,18,48,12,14
+Newcastle United,11,35,44,16,44,13,11
+Tottenham Hotspur,11,44,56,16,44,14,11
+Wimbledon,14,34,46,14,44,15,10
+Sheffield Wednesday,8,52,67,18,44,16,12
+Everton,13,41,56,16,40,17,9
+Bolton Wanderers,13,41,61,16,40,18,9
+Barnsley,5,37,82,23,35,19,10
+Crystal Palace,9,37,71,21,33,20,8
+Manchester United,12,76,44,5,75,1,21
+Newcastle United,11,73,40,8,68,2,19
+Arsenal,11,62,32,8,68,3,19
+Liverpool,11,62,37,8,68,4,19
+Aston Villa,10,47,34,11,61,5,17
+Chelsea,11,58,55,11,59,6,16
+Sheffield Wednesday,15,50,51,9,57,7,14
+Wimbledon,11,49,46,12,56,8,15
+Leicester City,11,46,54,15,47,9,12
+Tottenham Hotspur,7,44,51,18,46,10,13
+Leeds United,13,28,38,14,46,11,11
+Derby County,13,45,58,14,46,12,11
+Blackburn Rovers,15,42,43,14,42,13,9
+West Ham United,12,39,48,16,42,14,10
+Everton,12,44,57,16,42,15,10
+Southampton,11,50,56,17,41,16,10
+Coventry City,14,38,54,15,41,17,9
+Sunderland,10,35,53,18,40,18,10
+Middlesbrough,12,51,60,16,39,19,10
+Nottingham Forest,16,31,59,16,34,20,6
+Manchester United,7,73,35,6,82,1,25
+Newcastle United,6,66,37,8,78,2,24
+Liverpool,11,70,34,7,71,3,20
+Aston Villa,9,52,35,11,63,4,18
+Arsenal,12,49,32,9,63,5,17
+Everton,10,64,44,11,61,6,17
+Blackburn Rovers,7,61,47,13,61,7,18
+Tottenham Hotspur,13,50,38,9,61,8,16
+Nottingham Forest,13,50,54,10,58,9,15
+West Ham United,9,43,52,15,51,10,14
+Chelsea,14,46,44,12,50,11,12
+Middlesbrough,10,35,50,17,43,12,11
+Leeds United,7,40,57,19,43,13,12
+Wimbledon,11,55,70,17,41,14,10
+Sheffield Wednesday,10,48,61,18,40,15,10
+Coventry City,14,42,60,16,38,16,8
+Southampton,11,34,52,18,38,17,9
+Manchester City,11,33,58,18,38,18,9
+Queens Park Rangers,6,38,57,23,33,19,9
+Bolton Wanderers,5,39,71,25,29,20,8
+Blackburn Rovers,8,80,39,7,89,1,27
+Manchester United,10,77,28,6,88,2,26
+Nottingham Forest,11,72,43,9,77,3,22
+Liverpool,11,65,37,10,74,4,21
+Leeds United,13,59,38,9,73,5,20
+Newcastle United,12,67,47,10,72,6,20
+Tottenham Hotspur,14,66,58,12,62,7,16
+Queens Park Rangers,9,61,59,16,60,8,17
+Wimbledon,11,48,65,16,56,9,15
+Southampton,18,61,63,12,54,10,12
+Chelsea,15,50,55,14,54,11,13
+Arsenal,12,52,49,17,51,12,13
+Sheffield Wednesday,12,49,57,17,51,13,13
+West Ham United,11,44,48,18,50,14,13
+Everton,17,44,51,14,50,15,11
+Coventry City,14,44,62,16,50,16,12
+Manchester City,13,53,64,17,49,17,12
+Aston Villa,15,51,56,16,48,18,11
+Crystal Palace,12,34,49,19,45,19,11
+Norwich City,13,37,54,19,43,20,10
+Leicester City,11,45,80,25,29,21,6
+Ipswich Town,6,36,93,29,27,22,7
+Manchester United,11,80,38,4,92,1,27
+Blackburn Rovers,9,63,36,8,84,2,25
+Newcastle United,8,82,41,11,77,3,23
+Arsenal,17,53,28,7,71,4,18
+Leeds United,16,65,39,8,70,5,18
+Wimbledon,11,56,53,13,65,6,18
+Sheffield Wednesday,16,76,54,10,64,7,16
+Liverpool,9,59,55,16,60,8,17
+Queens Park Rangers,12,62,61,14,60,9,16
+Aston Villa,12,46,50,15,57,10,15
+Coventry City,14,43,45,14,56,11,14
+Norwich City,17,65,61,13,53,12,12
+West Ham United,13,47,58,16,52,13,13
+Chelsea,12,49,53,17,51,14,13
+Tottenham Hotspur,12,54,59,19,45,15,11
+Manchester City,18,38,49,15,45,16,9
+Everton,8,42,63,22,44,17,12
+Southampton,7,49,66,23,43,18,12
+Ipswich Town,16,35,58,17,43,19,9
+Sheffield United,18,42,60,16,42,20,8
+Oldham Athletic,13,42,68,20,40,21,9
+Swindon Town,15,47,100,22,30,22,5
+Manchester United,12,67,31,6,84,1,24
+Aston Villa,11,57,40,10,74,2,21
+Norwich City,9,61,65,12,72,3,21
+Blackburn Rovers,11,68,46,11,71,4,20
+Queens Park Rangers,12,63,55,13,63,5,17
+Liverpool,11,62,55,15,59,6,16
+Sheffield Wednesday,14,55,51,13,59,7,15
+Tottenham Hotspur,11,60,66,15,59,8,16
+Manchester City,12,56,51,15,57,9,15
+Arsenal,11,40,38,16,56,10,15
+Chelsea,14,51,54,14,56,11,14
+Wimbledon,12,56,55,16,54,12,14
+Everton,8,53,55,19,53,13,15
+Sheffield United,10,54,53,18,52,14,14
+Coventry City,13,52,57,16,52,15,13
+Ipswich Town,16,50,55,14,52,16,12
+Leeds United,15,57,62,15,51,17,12
+Southampton,11,54,61,18,50,18,13
+Oldham Athletic,10,63,74,19,49,19,13
+Crystal Palace,16,48,61,15,49,20,11
+Middlesbrough,11,54,75,20,44,21,11
+Nottingham Forest,10,41,62,22,40,22,10

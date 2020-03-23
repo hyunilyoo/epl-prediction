@@ -3,12 +3,12 @@
 # Define here the models for your scraped items
 #
 # See documentation in:
-# https://doc.scrapy.org/en/latest/topics/items.html
+# https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
 
 
-class ClubItem(scrapy.Item):
+class ClubstatsCrawlerItem(scrapy.Item):
     club_name = scrapy.Field()
     goal_per_match = scrapy.Field()
     shot_on_target = scrapy.Field()
@@ -23,3 +23,4 @@ class ClubItem(scrapy.Item):
     clearance = scrapy.Field()
     aerial_battles = scrapy.Field()
     interceptions = scrapy.Field()
+    season = scrapy.Field()

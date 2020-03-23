@@ -3,12 +3,13 @@
 # Define here the models for your scraped items
 #
 # See documentation in:
-# https://doc.scrapy.org/en/latest/topics/items.html
+# https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
 
 
-class TestItem(scrapy.Item):
+class TablesCrawlerItem(scrapy.Item):
+    
     club_name = scrapy.Field()
     position = scrapy.Field()
     won = scrapy.Field()
