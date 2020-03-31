@@ -9,6 +9,7 @@ import scrapy
 
 
 class ClubstatsCrawlerItem(scrapy.Item):
+
     club_name = scrapy.Field()
     goal_per_match = scrapy.Field()
     shot_on_target = scrapy.Field()

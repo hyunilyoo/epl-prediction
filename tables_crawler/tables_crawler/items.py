@@ -9,7 +9,7 @@ import scrapy
 
 
 class TablesCrawlerItem(scrapy.Item):
-    
+
     club_name = scrapy.Field()
     position = scrapy.Field()
     won = scrapy.Field()

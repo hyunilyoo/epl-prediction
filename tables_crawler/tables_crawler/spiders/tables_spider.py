@@ -80,3 +80,4 @@ class TableSpider(scrapy.Spider):
                     item["goal_against"] = row.xpath('./td[9]/text()')[0].extract()
                     item["points"] = row.xpath('./td[11]/text()')[0].extract()
                     yield item
+                    
