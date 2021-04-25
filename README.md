@@ -1,5 +1,8 @@
 # English Premier League Top 4 Prediction
-![title](imgs/epl_logo.png)
+<p align="center">
+    <img src="imgs/epl_logo.png" width="50%" height="50%">
+</p>
+
 ## Motivation 
 Every year in English Premier League (EPL), all clubs are striving to get into the top 4 in the league so that they can participate in the Champions League, which is the biggest competition in Europe besides their own league. We have sort of ideas about what a team should do to win a match such as good passing, high pressure, more shots on target, etc… As a Data science enthusiast and a huge soccer fan, I was curious to see if  I can prove or find out what features are actually important to win a match. This could make a confident statement about what a team has to focus on to be in the top 4. Moreover, it can help to predict what teams are highly likely to be in the top 4 using machine learning models.
 
