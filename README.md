@@ -13,5 +13,6 @@ Every year in English Premier League (EPL), all clubs are striving to get into t
 **Characteristics:** Dataset is composed into two tables. One with final results of its season (it’s called “table.csv”) and one with clubs’ statistics (“club_statistics.csv”). “Table.csv” has all data from 1993 to 2020; however, “club_statistics.csv” missing many factors from 1993 to 2006 due to the data gathering method that EPL had applied in matches. More details are in this link: https://www.premierleague.com/stats/clarification
 
 ## Limitations
-Dataset does not include other features that might be important for performance of a team such as Team mentality, number of players who are injured, whether a team has world class players or not, tatics, etc… Therefore, there might be other important features that have a positive relationship with getting into the top 4. 
+Dataset does not include other features that might be important for performance of a team such as Team mentality, number of players who are injured, whether a team has world class players or not, tatics, etc… Therefore, there might be other important features that have a positive relationship with getting into the top 4.   
 
+Full analysis: [Top4_Prediction.ipynb](https://github.com/hyunilyoo/epl-prediction/blob/readme/Top4_Prediction.ipynb)
