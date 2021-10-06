@@ -15,4 +15,4 @@ Every year in English Premier League (EPL), all clubs are striving to get into t
 ## Limitations
 Dataset does not include other features that might be important for performance of a team such as Team mentality, number of players who are injured, whether a team has world class players or not, tatics, etc… Therefore, there might be other important features that have a positive relationship with getting into the top 4.   
 
-**Full analysis:** [Top4_Prediction.ipynb](https://github.com/hyunilyoo/epl-prediction/blob/readme/Top4_Prediction.ipynb)
+**Full analysis:** [Top4_Prediction.ipynb](https://github.com/hyunilyoo/epl-prediction/blob/master/Top4_Prediction.ipynb)
